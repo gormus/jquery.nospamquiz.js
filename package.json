@@ -1,0 +1,40 @@
+{
+  "name": "jquery.nospamquiz.js",
+  "version": "0.1.0",
+  "description": "A simple jQuery plugin to prevent spammers.",
+  "main": "src/jquery.nospamquiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gormus/jquery.nospamquiz.js.git"
+  },
+  "keywords": [
+    "jquery",
+    "plugins",
+    "spam",
+    "quiz"
+  ],
+  "author": {
+    "name": "Osman Gormus",
+    "email": "osman@gorm.us",
+    "url": "http://gorm.us"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gormus/jquery.nospamquiz.js/issues"
+  },
+  "homepage": "https://github.com/gormus/jquery.nospamquiz.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-header": "^2.0.5",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1",
+    "pump": "^3.0.0",
+    "rimraf": "^2.6.2"
+  }
+}
