@@ -1,6 +1,6 @@
 {
   "name": "jquery.nospamquiz.js",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A simple jQuery plugin to prevent spammers.",
   "main": "src/jquery.nospamquiz.js",
   "scripts": {
