@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/gormus/jquery.nospamquiz.js#readme",
   "dependencies": {
-    "jquery": "*"
+    "jquery": "^3.0.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
