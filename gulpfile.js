@@ -9,8 +9,9 @@ var jshint = require('gulp-jshint');
 var pkg = require('./package.json');
 var banner = ['/**',
   ' * <%= pkg.name %> - <%= pkg.description %>',
+  ' *',
   ' * @version v<%= pkg.version %>',
-  ' * @link <%= pkg.homepage %>',
+  ' * @author <%= pkg.author.name %> <<%= pkg.author.email %>>',
   ' * @license <%= pkg.license %>',
   ' */',
   ''].join('\n');
