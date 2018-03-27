@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run build",
+  "github": {
+    "release": true,
+    "releaseName": "v%s",
+    "tokenRef": "RELEASEIT_TOKEN"
+  }
+}
